@@ -81,15 +81,15 @@ Compares the uploaded image to **reference high-quality photos** stored in `data
     ```bash
     python app.py
     ```
-  To run locally : If you prefer to use the earlier prototype inside the /demo folder, run ```bash python -m demo.gradio_app instead.```
+    To run locally : If you prefer to use the earlier prototype inside the /demo folder, run ```bash python -m demo.gradio_app instead.```
   
 4.	Open the local URL displayed (usually http://127.0.0.1:7860).
 
-Upload an image and a short text prompt — you’ll see Alignment Score and Aesthetic Score displayed in real time.
+    Upload an image and a short text prompt — you’ll see Alignment Score and Aesthetic Score displayed in real time.
 
-🌐 Public Demo (Hugging Face Space)
+## 🌐 Public Demo (Hugging Face Space)
 
-If you’d like to try this app directly in your browser, without setting up anything locally, visit the public Hugging Face Space (link will be added soon).
+If you’d like to try this app directly in your browser, without setting up anything locally, visit the public Hugging Face Space. [![Hugging Face Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue)](https://huggingface.co/spaces/RithikaBaskaran/generative-image-evaluator)
 
 This hosted demo runs the same Gradio app on Hugging Face’s infrastructure, allowing anyone to test the evaluator interactively.
 
