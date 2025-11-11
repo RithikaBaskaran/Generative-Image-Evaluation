@@ -1,0 +1,13 @@
+torch==2.4.1
+torchvision==0.19.1
+transformers==4.44.2
+accelerate==0.33.0
+safetensors>=0.4.3
+ftfy
+pillow
+numpy
+pandas
+scikit-learn
+matplotlib
+gradio
+requests
